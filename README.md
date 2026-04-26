@@ -1,3 +1,11 @@
+<!-- 🔥 Animated Typing Effect -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rajesh+👋;Python+Developer+🐍;React+Developer+⚛️;Building+Real+World+Projects+🚀" />
+</p>
+
+---
+
 # 👋 Hi, I'm Rajesh
 
 ### 🚀 Python Developer | React Enthusiast | Problem Solver
@@ -40,13 +48,13 @@
 
 ## 📊 GitHub Stats
 
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
 
 ---
 
@@ -71,7 +79,7 @@
 
 ---
 
-## 🧩 Fun Extras
+## 👀 Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
 

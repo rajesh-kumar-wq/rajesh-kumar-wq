@@ -1,74 +1,150 @@
-<!-- 🔥 Animated Typing -->
+<!-- ─────────────────────────  HERO (Typing) ───────────────────────── -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Rajesh+👋;Python+Developer+🐍;React+Learner+⚛️;Open+to+Work+💼" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=820&lines=Rajesh+Kumar+%7C+Python+Developer;Building+APIs+%26+Full-Stack+Apps;Open+to+Entry-Level+Roles+%F0%9F%92%BC" />
 </p>
 
----
+<!-- ─────────────────────────  HEADER ───────────────────────── -->
 
-# 👋 Hi, I'm Rajesh Kumar
+<h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
+<p align="center">
+  <b>Python Developer • Django • React • REST APIs</b><br/>
+  Focused on building reliable backends and clean UIs.
+</p>
 
-### 🚀 Aspiring Python Developer | Full Stack Learner
+<p align="center">
+  <a href="https://github.com/rajesh-kumar-wq">
+    <img src="https://komarev.com/ghpvc/?username=rajesh-kumar-wq&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/rajesh-kumar-wq?tab=followers">
+    <img src="https://img.shields.io/github/followers/rajesh-kumar-wq?label=Followers&style=flat" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Currently working on: **Web Development Projects**
-* 🌱 Learning: **Python, React, Django**
-* 💬 Ask me about: **Frontend + Backend Basics**
-* 🎯 Goal: **Become a Job-ready Developer**
+* 🔭 Building **full-stack apps** with **Django + React**
+* 🌱 Deepening **REST API design**, **auth (JWT)**, and **state management**
+* 🎯 Target: **Entry-level Python Developer / Backend Role**
+* ⚡ Strength: Turning requirements into **working, deployable features**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Languages
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
 
-### 🌐 Frontend
+**Backend**
+![Django](https://img.shields.io/badge/Django-092E20?logo=django)
+![REST](https://img.shields.io/badge/REST-API-informational)
 
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
-
-### ⚙️ Backend
-
-![Django](https://img.shields.io/badge/Django-green?logo=django)
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rajesh-kumar-wq\&show_icons=true\&theme=tokyonight)
+**Database & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 Featured Projects
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajesh-kumar-wq\&theme=tokyonight)
+> Replace links/descriptions with your real repos. Keep each to 1–2 impact lines.
 
----
+### 🔹 Full Stack Task Manager
 
-## 📈 Top Languages
+* **Django REST + React** app with JWT auth, CRUD, and protected routes
+* Focus: API design, auth flows, form handling
+  🔗 https://github.com/rajesh-kumar-wq/your-task-manager
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-kumar-wq\&layout=compact\&theme=tokyonight)
+### 🔹 Bulk Data Upload System
 
----
+* Excel upload → validation → DB insert (Django)
+* Focus: file parsing, error handling, user feedback
+  🔗 https://github.com/rajesh-kumar-wq/your-upload-project
 
-## 🌐 Connect with Me
+### 🔹 Portfolio / UI Experiments
 
-[LinkedIn](https://www.linkedin.com/in/rajesh-kumar-1011r)
-[GitHub](https://github.com/rajesh-kumar-wq)
-
----
-
-## 👀 Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rajesh-kumar-wq\&color=blue)
+* Responsive components, hover effects, scroll animations (React)
+  🔗 https://github.com/rajesh-kumar-wq/your-frontend-project
 
 ---
 
-⭐️ *Building skills step by step 🚀*
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajesh-kumar-wq&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-kumar-wq&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-kumar-wq&theme=tokyonight" />
+</p>
+
+---
+
+## 🧪 What I’m Improving Now
+
+* Clean **API contracts** (pagination, filtering, errors)
+* **Auth flows** (JWT refresh, protected routes)
+* **Code quality** (structure, naming, small reusable components)
+
+---
+
+## 📫 Contact
+
+* 💼 LinkedIn: https://www.linkedin.com/in/rajesh-kumar-1011r
+* 📧 Email: [rajesh0327r@gmail.com](mailto:your-email@example.com)
+
+---
+
+## 🐍 Contribution Snake (auto-generated)
+
+<!-- To enable: create .github/workflows/snake.yml (see below) -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajesh-kumar-wq/rajesh-kumar-wq/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚙️ Optional: Snake Animation Setup
+
+Create a file: `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: rajesh-kumar-wq
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+⭐️ **Principle:** Fewer widgets, more **proof of work**.

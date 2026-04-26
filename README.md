@@ -58,17 +58,9 @@
 
 ---
 
-## 🚀 Projects
-
-* 🔹 Add your project here
-* 🔹 Add your project here
-* 🔹 Add your project here
-
----
-
 ## 🌐 Connect with Me
 
-[LinkedIn](https://linkedin.com/)
+[LinkedIn](https://www.linkedin.com/in/rajesh-kumar-1011r)
 [GitHub](https://github.com/rajesh-kumar-wq)
 
 ---

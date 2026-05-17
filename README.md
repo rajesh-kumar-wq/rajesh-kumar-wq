@@ -75,6 +75,7 @@
 
 * Responsive components, hover effects, scroll animations (React)
   🔗 https://rajeshk-portfolio.lovable.app/
+  🔗 https://rajesh0.neocities.org/Portfolio_/Portfolio_R
 
 ---
 

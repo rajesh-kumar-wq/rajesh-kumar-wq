@@ -74,7 +74,7 @@
 ### 🔹 Portfolio / UI Experiments
 
 * Responsive components, hover effects, scroll animations (React)
-  🔗 https://github.com/rajesh-kumar-wq/your-frontend-project
+  🔗 https://rajeshk-portfolio.lovable.app/
 
 ---
 

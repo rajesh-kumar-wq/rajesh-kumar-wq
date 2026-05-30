@@ -82,11 +82,6 @@
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajesh-kumar-wq&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh-kumar-wq&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-kumar-wq&theme=tokyonight" />
 </p>
 
@@ -104,37 +99,6 @@
 
 * 💼 LinkedIn: https://www.linkedin.com/in/rajesh-kumar-1011r
 * 📧 Email: [rajesh0327r@gmail.com](mailto:your-email@example.com)
-
----
-
-## ⚙️ Optional: Snake Animation Setup
-
-Create a file: `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rajesh-kumar-wq
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 

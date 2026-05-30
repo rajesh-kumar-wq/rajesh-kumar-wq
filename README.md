@@ -107,16 +107,6 @@
 
 ---
 
-## 🐍 Contribution Snake (auto-generated)
-
-<!-- To enable: create .github/workflows/snake.yml (see below) -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajesh-kumar-wq/rajesh-kumar-wq/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## ⚙️ Optional: Snake Animation Setup
 
 Create a file: `.github/workflows/snake.yml`
